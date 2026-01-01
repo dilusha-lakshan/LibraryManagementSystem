@@ -1,4 +1,6 @@
-﻿namespace LibraryManagementSystem.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace LibraryManagementSystem.Models
 {
     public class Book
     {
